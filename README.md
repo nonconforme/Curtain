@@ -162,8 +162,8 @@ $('.curtains').curtains({
 * Firefox
 * Chrome
 * IE8/IE9
-* iOs (iPhone/iPad) __but the curtain effect is disabled__
-* Android (Chrome/Opera) __but the curtain effect is disabled__
+* (Temporarily Removed) iOs (iPhone/iPad) __but the curtain effect is disabled__
+* (Temporarily Removed) Android (Chrome/Opera) __but the curtain effect is disabled__
 
 
 ## Roadmap
@@ -172,11 +172,11 @@ $('.curtains').curtains({
 
 ## Credits
 
-### Original Author
-[Victor Coulon](http://victorcoulon.fr) or ping me on twitter http://twitter.com/_victa
-
 ### Updates Contributor
 * [HIRAGA Christophe](http://thedev.net)
+
+### Original Author
+* [Victor Coulon](http://victorcoulon.fr) or ping me on twitter http://twitter.com/_victa
 
 ### Old Contributors
 
