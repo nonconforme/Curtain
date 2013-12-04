@@ -1,0 +1,84 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body {
+    background:#ccc;
+    color:#fff;
+    font:0.6em/1.2em Georgia, 'Times New Roman', serif;
+    height: 100%; margin: 0; padding: 0
+}
+
+a {
+    border-bottom:0px solid #333;
+    color:#333;
+    text-decoration:none;
+}
+        
+a:hover {
+    text-align: center;
+    background:#fff;
+}
+
+div {
+    border:10px solid #fff;
+    margin:5%;
+    padding-bottom: 20px;
+}
+
+div div {
+    background:rgba(0,0,0,0.6);
+    border:none;
+    margin:0 0 0 50%;
+    padding:6% 2%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+form {
+    width: 470px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#One {
+	background-color:#000000;
+	color:#CCCCCC;
+}
+#Two {
+	background-color:#333333;
+    color:#CCCCCC;
+}
+#Three {
+	background-color:#666666;
+    color:#CCCCCC;
+}
+#Four {
+	background-color:#999999;
+    color:#CCCCCC;
+}
+
+.curtains {
+    width: 100%;
+    z-index:1;
+    position:relative;
+}
+.curtains > li{
+    -webkit-transform:translateZ(0);
+    background: white;
+    position: fixed;
+    display:block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    overflow: hidden;
+    z-index:1;
+}
+.curtains > li.hidden{display:none;}
+.curtains > li:first-child{z-index:2;}
