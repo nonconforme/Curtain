@@ -151,9 +151,9 @@ $('.curtains').curtains({
 });
 ```
 
-## Browser Compatibility
+## jQuery Compatibility
 
-* Jquery 1.7.x to 1.10.x
+* jQuery 1.7.x to 1.10.x
 
 
 ## Browser Compatibility
