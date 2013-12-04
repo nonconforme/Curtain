@@ -173,7 +173,7 @@ $('.curtains').curtains({
 ## Credits
 
 ### Updates Contributor
-* [HIRAGA Christophe](http://thedev.net)
+* [Christophe Hiraga](http://thedev.net)
 
 ### Original Author
 * [Victor Coulon](http://victorcoulon.fr) or ping me on twitter http://twitter.com/_victa
