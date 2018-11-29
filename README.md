@@ -1,7 +1,7 @@
 Curtain.js (Updated version)
 ============================
 
-This plugin allow you to get a "ONE PAGE SITE". It's usefull to create a web page with multiple fixed panels that unroll with a nice effect. Exactly like a curtain rises.
+This plugin allow you to create a "ONE PAGE SITE". It's usefull to create a web page with multiple fixed panels that unroll with a nice effect. Exactly like a curtain rises.
  
 To navigate, you can use your keyboard instead the scrollbar or mousewheel to navigate into the document. 
 But that's not all, there is more features! For example, you can easily add a fixed element or multiple "steps" element inside a pannel.
